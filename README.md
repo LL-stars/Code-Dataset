@@ -1,4 +1,4 @@
-# All datasets are publicly available and have no information that would identify a human being, and there are no moral or ethical issues. The dataset of this project file asks for the dataset used in this study, which has been processed in some way. Below is a description of the full dataset, as well as a link to the original download of the dataset.
+# All datasets are publicly available and have no information that would identify a human being, and there are no moral or ethical issues. The dataset of this project file asks for the dataset used in this study, which has been processed in some way. Below is a description of the full dataset.
 
 # KT-Dataset
 ## The Assist0910, Assistment2017, Eedi and SCD datasets are in the Dataset folder.
